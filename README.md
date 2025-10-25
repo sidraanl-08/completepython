@@ -6,29 +6,6 @@ This repository includes Python fundamentals, advanced topics, Object-Oriented P
 
 ---
 
-## 📁 Repository Structure  
-
-completepython/
-│
-├── variables.py # Python variables and data types
-├── operators.py # Operators & expressions
-├── loops.py # Loops (for, while)
-├── lists.py # Lists and list operations
-├── functions.py # Functions & modular programming
-├── fileIO.py # File input/output operations
-├── dictionariesandsets.py # Dictionaries, sets, and tuples
-├── conditionals.py # Conditional statements & control flow
-├── advancedpython.py # Advanced Python topics
-├── OOP.py # Object-Oriented Programming concepts
-├── DSAs.py # Data Structures & Algorithms practice
-└── README.md # Project documentation
-
-
-
-> Each file is focused on a specific Python concept or practice exercise.
-
----
-
 ## 🎯 Learning Objectives  
 
 - Master **Python syntax and fundamentals** 🐍  
