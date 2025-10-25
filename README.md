@@ -10,18 +10,19 @@ This repository includes Python fundamentals, advanced topics, Object-Oriented P
 
 completepython/
 │
-├── variables.py
-├── operators.py
-├── loops.py
-├── lists.py
-├── functions.py
-├── fileIO.py
-├── dictionariesandsets.py
-├── conditonals.py
-├── advancedpython.py
-├── OOP.py
-├── DSAs.py
-└── README.md
+├── variables.py # Python variables and data types
+├── operators.py # Operators & expressions
+├── loops.py # Loops (for, while)
+├── lists.py # Lists and list operations
+├── functions.py # Functions & modular programming
+├── fileIO.py # File input/output operations
+├── dictionariesandsets.py # Dictionaries, sets, and tuples
+├── conditionals.py # Conditional statements & control flow
+├── advancedpython.py # Advanced Python topics
+├── OOP.py # Object-Oriented Programming concepts
+├── DSAs.py # Data Structures & Algorithms practice
+└── README.md # Project documentation
+
 
 
 > Each file is focused on a specific Python concept or practice exercise.
@@ -114,4 +115,4 @@ Instagram: @shradhakhapra
 📘 This repository is part of my personal Python learning journey.
 Feel free to explore, fork, and learn along!
 
-Made with ❤️ by Sidraan L.
+Made with ❤️ by Sidraa 
